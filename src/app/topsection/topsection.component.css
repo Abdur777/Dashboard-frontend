@@ -1,0 +1,40 @@
+#mainhead{
+    background-color: #FFF; 
+    margin-bottom: 35px; 
+    border-radius: 14.078px; 
+    width: 653.199px; 
+    height: 105.582px; 
+    margin-left: -5px;
+}
+
+#logo{
+width: 30px;
+height: 44.344px;
+flex-shrink: 0;
+border-radius: 11.262px;
+opacity: 0.65;
+background-color: #FFF2E9;
+}
+
+
+.label{
+    color: grey;
+}
+
+  .section {
+    margin-top: 30.97px;
+    margin-bottom: 30.27px;
+    margin-left: 28.16px;
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  
+  
+  .label-number-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px;
+}
